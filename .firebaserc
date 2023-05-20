@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "rohan-prasad-portfolio"
+  },
+  "targets": {
+    "rohan-prasad-portfolio": {
+      "hosting": {
+        "tr": [
+          "tic-tac-toe-7-a"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
